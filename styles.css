@@ -150,3 +150,8 @@ footer{padding:38px 0 52px;color:var(--muted);font-size:12px;border-top:1px soli
 .citation-box span{font-size:10px;text-transform:uppercase;letter-spacing:.14em;color:var(--accent)}
 .citation-box p{font-size:14px;line-height:1.65}
 @media(max-width:900px){.archive-main,.article-main{padding-top:70px}.archive-hero{padding:54px 0 45px}.archive-list{margin-left:0}.article-page{padding-top:48px}}
+
+.source-links{margin-top:48px;padding:22px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line);display:grid;gap:10px}
+.source-links span{font-size:10px;text-transform:uppercase;letter-spacing:.14em;color:var(--accent);margin-bottom:5px}
+.source-links a{color:var(--accent);text-decoration:none;font-size:14px}
+.source-links a:hover{text-decoration:underline}
