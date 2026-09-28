@@ -31,4 +31,9 @@
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://nekipelova.ru/publications/regionalnye-tendentsii-neformalnoy-zanyatosti/</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
