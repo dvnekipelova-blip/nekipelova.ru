@@ -118,3 +118,9 @@ footer{padding:38px 0 52px;color:var(--muted);font-size:12px;border-top:1px soli
 .rg-mark{letter-spacing:-.08em}
 .elibrary-mark{font-family:Georgia,serif;font-size:15px;font-style:italic}
 @media(max-width:520px){.profile-link{grid-template-columns:32px 1fr auto;font-size:13px!important}}
+
+/* Financial University official logo */
+.profile-logo-wrap{width:46px;height:32px;display:flex;align-items:center;justify-content:flex-start;overflow:visible}
+.fu-logo{display:block;width:46px;height:auto;max-height:32px;object-fit:contain;object-position:left center}
+.profile-link:has(.fu-logo){grid-template-columns:52px 1fr auto}
+@media(max-width:520px){.profile-logo-wrap,.fu-logo{width:42px}.profile-link:has(.fu-logo){grid-template-columns:48px 1fr auto}}
