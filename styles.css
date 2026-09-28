@@ -106,3 +106,15 @@ footer{padding:38px 0 52px;color:var(--muted);font-size:12px;border-top:1px soli
  .about-lines p{grid-column:2}
  #research .card:not(.research-primary){border-top:0}
 }
+
+/* Academic identity links */
+.profile-link{display:grid!important;grid-template-columns:34px 1fr auto;align-items:center;gap:12px;padding:12px 0!important}
+.profile-mark{width:28px;height:28px;border:1px solid var(--line);border-radius:50%;display:inline-flex;align-items:center;justify-content:center;font-family:Arial,sans-serif;font-size:10px;font-weight:700;letter-spacing:-.02em;background:var(--surface);color:var(--accent)}
+.profile-link small{display:block;margin-top:1px;font-size:10px;font-weight:400;color:var(--muted);letter-spacing:.02em}
+.profile-link .arrow{color:var(--muted);font-size:12px}
+.profile-static{border-bottom:0!important}
+.fa-mark{border-radius:3px}
+.orcid-mark{font-size:11px}
+.rg-mark{letter-spacing:-.08em}
+.elibrary-mark{font-family:Georgia,serif;font-size:15px;font-style:italic}
+@media(max-width:520px){.profile-link{grid-template-columns:32px 1fr auto;font-size:13px!important}}
