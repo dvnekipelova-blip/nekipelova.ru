@@ -36,4 +36,9 @@
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://nekipelova.ru/publications/transformatsiya-neformalnoy-tenevoy-ekonomiki-tsifrovye-tehnologii/</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
