@@ -47,4 +47,10 @@
   <url><loc>https://nekipelova.ru/publications/riski-samozanyatyh/</loc><changefreq>yearly</changefreq><priority>0.8</priority></url>
   <url><loc>https://nekipelova.ru/publications/stanovlenie-instituta-samozanyatosti/</loc><changefreq>yearly</changefreq><priority>0.8</priority></url>
   <url><loc>https://nekipelova.ru/publications/gendernoe-neravenstvo-neformalnaya-ekonomika/</loc><changefreq>yearly</changefreq><priority>0.8</priority></url>
+  <url>
+    <loc>https://nekipelova.ru/expert/neformalnaya-zanyatost/</loc>
+    <lastmod>2026-10-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
 </urlset>
